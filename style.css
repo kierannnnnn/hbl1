@@ -1,0 +1,10 @@
+table, th, td {
+  border: 5px solid black;
+  font-family: 'Baloo Bhaina 2', cursive;
+  font-weight: normal;
+  text-align: center;
+  border-collapse: collapse;
+  border-spacing: 5px;
+  border-radius: 2px;
+  font-size: 20px;
+}
