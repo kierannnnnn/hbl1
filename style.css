@@ -1,3 +1,10 @@
+.header {
+  padding: 60px;
+  text-align: center;
+  background: #1abc9c;
+  color: white;
+  font-size: 30px;
+}
 table, th, td {
   border: 5px solid black;
   font-family: Arial ;
@@ -13,4 +20,4 @@ p {
   border: 2px solid black;
   border-radius: 5px;
 }
-<!-- Page Loader -->
+
