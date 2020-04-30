@@ -6,13 +6,13 @@
   font-size: 30px;
 }
 table, th, td {
-  border: 5px solid black;
+  border: 5px solid sliver;
   font-family: Arial ;
   font-weight: normal;
   text-align: center;
   border-collapse: collapse;
   border-spacing: 5px;
-  border-radius: 2px;
+  border-radius: 1px;
   font-size: 20px;
 }
 
