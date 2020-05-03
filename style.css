@@ -1,11 +1,11 @@
-.header {
-  padding: 60px;
-  text-align: center;
-  background: #53fce0;
-  color: white;
-  font-size: 30px;
+<style>
+head{
+  background-color: #000000);
 }
-  .topnav {
+body{
+  background-color: #000000)
+}
+.topnav a{
     position: fixed;
     z-index:1;
     display:inline-block;
@@ -48,5 +48,5 @@ p {
   border: 2px solid sliver;
   border-radius: 5px;
 }
-
+</style> 
     
