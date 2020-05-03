@@ -23,7 +23,9 @@ body{
   color: #ffffff;
   display: block;
 }
-
+.active a{
+    color: #ff0000 ;
+  
 .sidenav a:hover {
   color: #ff0000;
 }
