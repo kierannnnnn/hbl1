@@ -16,9 +16,10 @@ body{
     padding: 10px;
     font-size: 20px;
     color: white;
-    font-family: 'Karla';
+    font-family: "revicons"
     text-decoration: none;
   }
+ 
   .active {
     color: #ff0000;
   }
