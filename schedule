@@ -1,0 +1,69 @@
+<div class="card">
+  <h2>Week 1</h2>
+  <p>
+    Courses:<br> 
+    1.Introdution to Python<br> 
+    2.Intermediate Python<br> 
+    3.Introduction to Databases in Python <br> 
+    4.Interactive Data Visualization with Bokeh <br> 
+    5.2.CS50's Introduction to Artificial Intelligence with Python  <br> 
+    6. SQL Basics<br>
+    7. Manipulating Data<br>
+    8. Normalization<br>
+    9. The SELECT Statement<br>
+    10. Shaping Data with the WHERE Clause<br>
+  
+ </p>
+</div>
+<br>
+<div class="card">
+  <h2>Week 2</h2>
+  <p>
+    Courses:<br> 
+    1.Python Data Science Toolbox (Part 1)<br> 
+    2.Python Data Science Toolbox (Part 2)<br> 
+    3.Statistical Thinking in Python (Part 1)<br> 
+    4.CS50's Introduction to Game development<br> 
+    5.JOINS<br>
+    6.Subqueries, Cases, and Views<br>
+    7.SQL Programming<br>
+    8.Security<br>
+    9.Google Cloud Essentials<br> 
+    10.Baseline: Infrastructure <br> 
+ </p>
+</div>
+<br>   
+    
+<div class="card">
+  <h2>Week 3</h2>
+  <p>
+    Courses:<br> 
+    1.Python Data Science Toolbox (Part 2)<br> 
+    2.Statistical Thinking in Python (Part 1)<br> 
+    3.Statistical Thinking in Python (Part 2)<br> 
+    4.CS50's Using Python for Research <br> 
+    5. Aggregate Functions<br>
+    6. Advanced SQL<br>
+    7.Activity Solutions<br>
+    8. Post Assessment<br>
+    10.Security<br>
+    11.Kubernetes in Google Cloud <br> 
+    12.Google Cloud Essentials<br>
+    13.DevOps Essentials<br>      
+ </p>
+</div>
+<br>   
+    
+    <div class="card">
+  <h2>Week 4</h2>
+  <p>
+    Courses:<br> 
+    1.CS50's Introduction to Game development<br> 
+    2.CS50's Introduction to Artificial Intelligence with Python  <br> 
+    3.CS50's Using Python for Research <br> 
+    4.Introduction to Importing Data in Python<br> 
+    5.Intermediate Importing Data in Python<br> 
+    6. abc
+ </p>
+</div>
+<br>   
